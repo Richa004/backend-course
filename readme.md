@@ -20,3 +20,5 @@ let work on it
 
 we need to created index.js files to export all the currect directories files 
 like wo donedenga us directory me ke han es ne index.js file me sare export kiya hai aor ause he array ko lelega wo 
+
+#pull request from remote to local 
